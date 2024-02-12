@@ -1,7 +1,7 @@
 Hey! Nice to see you.
 
 
-                                                                        I'm Sanju 😀
+                                                            I'm Sanju 😀
 
 
 I'm a Data Scientist Enthusiast
