@@ -1,4 +1,4 @@
-![logo](https://github.com/SanjuShusanth/Sanju-Bio/blob/main/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image%20(3).png)
+![logo](https://github.com/SanjuShusanth/Sanju-Bio/blob/main/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image%20(4).png)
 <h1 align="center">Hi 👋, I'm Sanju Shakthivel</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
