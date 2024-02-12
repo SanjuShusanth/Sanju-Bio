@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sanju Shakthivel</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src='https://www.skywavelabs.com/wp-content/uploads/2021/09/deep-learning.gif'>
+<img align="right" alt="coding" width="400" src='https://camo.githubusercontent.com/7a4cfc8c3c3fb1898e74d52fef6f11cef20908b0dd0e4a0c51615650a3791eb9/68747470733a2f2f692e6962622e636f2f4b364351514b422f312d7a2d566e2d574a74792d474f582d6b2d5549446d3663632d43662d512e676966'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjushusanth&label=Profile%20views&color=0e75b6&style=flat" alt="sanjushusanth" /> </p>
 
